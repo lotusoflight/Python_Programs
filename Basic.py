@@ -166,4 +166,4 @@
 # c=5>3?"true":"fLSE"
 
 # c= 5 if 5>10 else 10
-# print("res:",c)
+# print("res:",c) 
